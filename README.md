@@ -1,6 +1,7 @@
 # Hillside ZMK firmware
 
 ![hillside](https://imgur.com/emWDXiT.png)
+
 [![Build](https://github.com/mmccoyd/zmk-config/actions/workflows/build.yml/badge.svg)](https://github.com/mmccoyd/zmk-config/actions/workflows/build.yml)
 
 This is the [ZMK](https://zmk.dev/docs) firmware
